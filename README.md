@@ -1,3 +1,6 @@
+Оригинальный репозитарий   
+https://github.com/shaj13/raft    
+
 [![GoDoc](https://godoc.org/github.com/shaj13/raft?status.svg)](https://pkg.go.dev/github.com/shaj13/raft)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shaj13/raft)](https://goreportcard.com/report/github.com/shaj13/raft)
 [![Coverage Status](https://coveralls.io/repos/github/shaj13/raft/badge.svg?branch=master)](https://coveralls.io/github/shaj13/raft?branch=master)
